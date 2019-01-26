@@ -3,6 +3,7 @@
   "displayName": "codecademy-syntax-theme",
   "description": "Codecademy syntax theme for VSCode",
   "author": "Jon Samp",
+  "publisher": "codecademy",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.30.0"
