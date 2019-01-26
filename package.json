@@ -1,0 +1,22 @@
+{
+  "name": "codecademy-syntax-theme",
+  "displayName": "codecademy-syntax-theme",
+  "description": "Codecademy syntax theme for VSCode",
+  "author": "Jon Samp",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codecademy Syntax Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codecademy-syntax-color-theme.json"
+      }
+    ]
+  }
+}
