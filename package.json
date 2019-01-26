@@ -4,6 +4,7 @@
   "description": "Codecademy syntax theme for VSCode",
   "author": "Jon Samp",
   "publisher": "codecademy",
+  "repository": "https://github.com/Codecademy/codecademy-syntax-theme-vscode",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.30.0"
